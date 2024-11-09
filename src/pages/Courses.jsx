@@ -43,9 +43,9 @@ const Courses = () => {
 
       <div className="flex flex-wrap max-w-screen-xl mx-auto gap-6 justify-center items-center py-20">
         {courseData.map((item) => (
-          <Link to={item.redirect} key={item.id}>
+          <div key={item.id}>
             <CourseCard data={item} onAddToCart={handleAddToCart} />
-          </Link>
+          </div>
         ))}
       </div>
 
