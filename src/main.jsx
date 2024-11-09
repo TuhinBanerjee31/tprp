@@ -14,7 +14,7 @@ import Courses from "./pages/Courses.jsx";
 import Contact from "./pages/Contact.jsx"
 import Cart from "./pages/Cart.jsx";
 import Terms from "./pages/Terms.jsx";
-import Refund from "./pages/refund.jsx";
+import Refund from "./pages/Refund.jsx";
 import Policy from "./pages/Policy.jsx";
 import Service from "./pages/Service.jsx";
 import CourseDetails1 from "./pages/CourseDetails1.jsx";
