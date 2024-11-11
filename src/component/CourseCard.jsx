@@ -21,7 +21,7 @@ const CourseCard = (props) => {
         </Link>
         <div className="p-4">
           <Link to={props.data.redirect}>
-            <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+            <h5 className="mb-2 text-xl font-semibold tracking-wider text-gray-900 dark:text-white">
             {props.data.title}
             </h5>
           </Link>

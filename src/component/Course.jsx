@@ -20,7 +20,7 @@ const Course = () => {
           </a>
           <div className="p-2">
             <a href="#">
-              <h5 className="mb-2 text-xl text-center font-bold tracking-tight text-gray-900">
+              <h5 className="mb-2 text-xl text-center font-semibold tracking-wide text-gray-900">
               Mindset Mastery Training
               </h5>
             </a>
@@ -37,7 +37,7 @@ const Course = () => {
           </a>
           <div className="p-2">
             <a href="#">
-              <h5 className="mb-2 text-xl text-center font-bold tracking-tight text-gray-900">
+              <h5 className="mb-2 text-xl text-center font-semibold tracking-wide text-gray-900">
               Motivational Speaker Training
               </h5>
             </a>
@@ -54,7 +54,7 @@ const Course = () => {
           </a>
           <div className="p-5">
             <a href="#">
-              <h5 className="mb-2 text-xl text-center font-bold tracking-tight text-gray-900">
+              <h5 className="mb-2 text-xl text-center font-semibold tracking-wide text-gray-900">
               Mindset Mastery Training
               </h5>
             </a>

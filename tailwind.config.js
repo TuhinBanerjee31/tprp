@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        source: ["Source Code Pro", "monospace"],
+        source: ["Poppins", "monospace"],
       },
       backgroundImage: {
         'slide1': "url('/src/assets/slide1.jpg')",
