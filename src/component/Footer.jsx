@@ -75,7 +75,7 @@ const Footer = () => {
 
       {/* Footer Bottom */}
       <div className="text-center py-6 bg-white">
-        <p className="text-black">© 2024 All rights reserved By TPRP</p>
+        <p className="text-black text-xs md:text-base">© 2024 All rights reserved By  TPRP PROCESS (OPC) PRIVATE LIMITED</p>
       </div>
     </div>
   );
